@@ -39,6 +39,6 @@ value at which the arrow is updated without bugs is 50.
 Every 50 milliseconds, the arrow will be updated, regardless 
 of the selected mode.
 
-July 2021 ã.
+July 2021 yr.
 Fanbumbot[ScDrift]
 ( https://github.com/fanbumbot )
