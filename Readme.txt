@@ -1,6 +1,5 @@
-The script adds an arrow in the form of a textdraw to the monitor
-for each player who has
-entered the server. It shows at a certain point
+This pawno script adds an arrow in the form of a textdraw to the monitor
+for each player who has entered the server. It shows at a certain point
 
 (without setting to the point {0.0, 0.0, 3.0}).
 
